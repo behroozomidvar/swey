@@ -1,0 +1,71 @@
+\begin{thebibliography}{10}
+
+\bibitem{bruns2013towards}
+A.~Bruns and S.~Stieglitz.
+\newblock Towards more systematic twitter analysis: Metrics for tweeting
+  activities.
+\newblock {\em International Journal of Social Research Methodology},
+  16(2):91--108, 2013.
+
+\bibitem{cameron2012emergency}
+M.~A. Cameron, R.~Power, B.~Robinson, and J.~Yin.
+\newblock Emergency situation awareness from twitter for crisis management.
+\newblock In {\em Proceedings of the 21st international conference companion on
+  World Wide Web}, pages 695--698. ACM, 2012.
+
+\bibitem{hlavavckova2007causality}
+K.~Hlav{\'a}{\v{c}}kov{\'a}-Schindler, M.~Palu{\v{s}}, M.~Vejmelka, and
+  J.~Bhattacharya.
+\newblock Causality detection based on information-theoretic approaches in time
+  series analysis.
+\newblock {\em Physics Reports}, 441(1):1--46, 2007.
+
+\bibitem{jones1997readings}
+K.~S. Jones.
+\newblock {\em Readings in information retrieval}.
+\newblock Morgan Kaufmann, 1997.
+
+\bibitem{DBLP:conf/icde/KamatJTN14}
+N.~Kamat, P.~Jayachandran, K.~Tunga, and A.~Nandi.
+\newblock Distributed and interactive cube exploration.
+\newblock In {\em {IEEE} 30th International Conference on Data Engineering,
+  Chicago, {ICDE} 2014, IL, USA, March 31 - April 4, 2014}, pages 472--483,
+  2014.
+
+\bibitem{li2015practical}
+J.~Li, L.~Liu, and T.~Le.
+\newblock {\em Practical Approaches to Causal Relationship Exploration}.
+\newblock Springer, 2015.
+
+\bibitem{lins2013nanocubes}
+L.~Lins, J.~T. Klosowski, and C.~Scheidegger.
+\newblock Nanocubes for real-time exploration of spatiotemporal datasets.
+\newblock {\em Visualization and Computer Graphics, IEEE Transactions on},
+  19(12):2456--2465, 2013.
+
+\bibitem{mathioudakis2010twittermonitor}
+M.~Mathioudakis and N.~Koudas.
+\newblock Twittermonitor: trend detection over the twitter stream.
+\newblock In {\em Proceedings of the 2010 ACM SIGMOD International Conference
+  on Management of data}, pages 1155--1158. ACM, 2010.
+
+\bibitem{meij2011mapping}
+E.~Meij, M.~Bron, L.~Hollink, B.~Huurnink, and M.~de~Rijke.
+\newblock Mapping queries to the linking open data cloud: A case study using
+  dbpedia.
+\newblock {\em Web Semantics: Science, Services and Agents on the World Wide
+  Web}, 9(4):418--433, 2011.
+
+\bibitem{moens2014mining}
+M.-F. Moens, J.~Li, and T.-S. Chua.
+\newblock {\em Mining user generated content}.
+\newblock CRC Press, 2014.
+
+\bibitem{DBLP:conf/kdd/RitterMEC12}
+A.~Ritter, Mausam, O.~Etzioni, and S.~Clark.
+\newblock Open domain event extraction from twitter.
+\newblock In {\em The 18th {ACM} {SIGKDD} International Conference on Knowledge
+  Discovery and Data Mining, {KDD} '12, Beijing, China, August 12-16, 2012},
+  pages 1104--1112, 2012.
+
+\end{thebibliography}
